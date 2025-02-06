@@ -1,0 +1,52 @@
+
+
+a {color:forestgreen }
+
+h1:hover{
+    background-color: rgb(25, 210, 62);
+}
+
+ol.button li:hover {
+    /*color:forestgreen*/
+    background-color:rgb(255, 35, 204);
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .images {
+    background-color: salmon;
+  }
+  .info {
+    background-blend-mode: darken;
+    background-color: thistle;
+  }
+
+  .links {
+    font-size: x-large;
+    size: 0cap;
+  }
+
+  table {
+    width: 80%;
+
+  }
+
+  span {
+    color:rgb(168, 15, 89)
+    
+  }
+
+  #third {
+    color: darkcyan;
+  }
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
